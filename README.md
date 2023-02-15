@@ -1,7 +1,7 @@
 # BookStoreProject
 Skapade ett program som skulle följa instruktionerna nedan. Detta var en gruppuppgift.
 
-Uppgiften går ut på att skapa en Android applikation med Java. Detta inkluderar
+Uppgiften går ut på att skapa en applikation med C#. Detta inkluderar
 också analys och design av applikationen i förväg.
 Uppgiften går också ut på att skapa en Databas. Databasen skall inkludera ett
 flertal tabeller och relationer mellan dem.
